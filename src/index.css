@@ -6,4 +6,7 @@ body {
 .nav-link {
     font-size: 14px;
 }
-
+.navbar .nav-link.active {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+}
