@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+.nav-link {
+    font-size: 14px;
+}
+.product-image {
+    transition: transform 0.5s ease-in-out;
+}
+
+.product-image:hover {
+    transform: scale(1.1);
+}
